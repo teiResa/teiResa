@@ -1,6 +1,20 @@
- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></br></br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    <br>
+   Working on an <em> open source website </em> template to help teachers,
+   <br> mainly <i> second language </i> teachers, 
+   <br> for instance the ESL Teachers in China.<br> <br> It's in the early stages, but feel free to check it out: 
+   <br><br>  
+   :sparkles: <a href="teiresa.github.com/ESL-Teacher-Desk"> ESL Teacher Desk </a> :sparkles:
+  </samp>
+</p>
 
-Working on an open source website template to help teachers, mainly <i> second language </i> teacher, for instance the ESL Teachers in China. It's in the early stages, but feel free to check it out:      teiresa.github.com/ESL-Teacher-Desk
+
+
+
+
 
 <!--
 **teiResa/teiResa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
