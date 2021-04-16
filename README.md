@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="77px">
   <br><br>
+  
   <samp>
-
-   Working on an <em> open source website </em> template to help teachers,
+   I'm currently working on an <em> open source website </em> template to help teachers,
    <br> mainly <i> second language </i> teachers, 
    <br> for instance the ESL Teachers in China.<br> <br> It's in the early stages, but feel free to check it out: 
    <br><br>  
