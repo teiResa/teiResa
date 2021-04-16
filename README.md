@@ -7,7 +7,7 @@
    <br> mainly <i> second language </i> teachers, 
    <br> for instance the ESL Teachers in China.<br> <br> It's in the early stages, but feel free to check it out: 
    <br><br>  
-   :sparkles: <a href="teiresa.github.com/esl-teacher-desk">ESL Teacher Desk</a> :sparkles:
+   :sparkles: <a href="https://teiresa.github.com/esl-teacher-desk">ESL Teacher Desk</a> :sparkles:
   </samp>
 </p>
 
