@@ -12,10 +12,21 @@
 </p>
 
 <details>
-  <summary><b>:ntoebook: 2021 goal</b></summary>
+  <summary><b>:notebook: 2021 goal</b></summary>
   I plan to transfer my site <a href="https://techkeen.wixsite.com/website">TechKeen</a> from WIX to My GitHub <a href="https://teiresa.github.io/"> Page </a>. I will either do this either by making it's own repository. I plan to keep https://teiresa.github.io/ as the highest in the hiarchy, so <i>TechKeen </i> would really just be like a project, but like a project I treat as it's own thing. In the future, I will hopefully buy a domain. Until then, it gets to live here. 
 </details>
 
+<details>
+  <summary><b><em> :calendar: Spring Quarter Goals </em></b></summary>
+  For April through June 30:
+    <ul>
+      <li> Commit 3x weekly </li>
+      <li> Practice HTML5, CSS, JS </li>
+      <li> Finally finish SoloLearn & PluralSight Courses </li>
+      <li> Experiment with Jekyll for my GH pgs </li>
+      <li> Keep working on Arduino Projects </li>
+     </ul
+ </details>
 
 
 
