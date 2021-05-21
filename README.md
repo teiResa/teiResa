@@ -11,7 +11,10 @@
   </samp>
 </p>
 
-
+<details>
+  <summary><b>:ntoebook: 2021 goal</b></summary>
+  I plan to transfer my site <a href="https://techkeen.wixsite.com/website">TechKeen</a> from WIX to My GitHub <a href="https://teiresa.github.io/"> Page </a>. I will either do this either by making it's own repository. I plan to keep https://teiresa.github.io/ as the highest in the hiarchy, so <i>TechKeen </i> would really just be like a project, but like a project I treat as it's own thing. In the future, I will hopefully buy a domain. Until then, it gets to live here. 
+</details>
 
 
 
