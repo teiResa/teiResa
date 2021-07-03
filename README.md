@@ -13,7 +13,9 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=teiResa&show_icons=true&theme=monokai)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=teiResa&hide_title=TRUE&show_icons=true&theme=monokai)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
 
 
 <details>
@@ -33,8 +35,11 @@
       <li> Experiment with Jekyll for my GH pgs </li>
       <li> Keep working on Arduino Projects </li>
      </ul
+ 
  </details>
 
+  
+        ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
       
 
 <!--
