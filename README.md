@@ -17,7 +17,7 @@
 </details>
 
 <details>
-  <summary><b><em> :calendar: Spring Quarter Goals </em></b></summary>
+  <summary><b><em> :calendar: Summer Quarter Goals </em></b></summary>
   For July through September:
     <ul>
       <li> Commit 3x weekly </li>
