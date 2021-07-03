@@ -11,6 +11,11 @@
   </samp>
 </p>
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=teiResa&show_icons=true&theme=monokai)
+
+
 <details>
   <summary><b>:notebook: 2021 goal</b></summary>
   I plan to transfer my site <a href="https://techkeen.wixsite.com/website">TechKeen</a> from WIX to My GitHub <a href="https://teiresa.github.io/"> Page </a>. I plan to keep https://teiresa.github.io/ as the highest in the hiarchy, so <i>TechKeen </i> would really just be like a project, but like a project I treat as it's own thing. 
@@ -30,7 +35,7 @@
      </ul
  </details>
 
-
+      
 
 <!--
 **teiResa/teiResa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
