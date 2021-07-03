@@ -18,10 +18,11 @@
 
 <details>
   <summary><b><em> :calendar: Spring Quarter Goals </em></b></summary>
-  For April through June 30:
+  For July through September:
     <ul>
       <li> Commit 3x weekly </li>
       <li> Practice HTML5, CSS, JS </li>
+      <li> Complete & practice Java course for Uni prep </li>
       <li> Finally finish SoloLearn & PluralSight Courses </li>
       <li> Experiment with Jekyll for my GH pgs </li>
       <li> Keep working on Arduino Projects </li>
