@@ -39,6 +39,15 @@
  </details>
 
   
+<details>
+  <summary><b><em> 💾 Github Stats </em></b></summary>
+  
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+   
+ </details>
        
       
 
