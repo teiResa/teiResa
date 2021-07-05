@@ -3,9 +3,8 @@
   <br><br>
   
   <samp>
-   I'm currently working on an <em> open source website </em> template to help teachers,
-   <br> mainly <i> second language </i> teachers, 
-   <br> for instance the ESL Teachers in China.<br> <br> It's in the early stages, but feel free to check it out: 
+   I'm currently working on an <em> open source website </em> template to help mainly <i> second language </i> teachers, 
+   <br> for instance the ESL Teachers in China. It's in the early stages, but feel free to check it out: 
    <br><br>  
    :sparkles: <a href="https://teiResa.github.io/esl-teacher-desk">ESL Teacher Desk</a> :sparkles:
   </samp>
@@ -38,7 +37,6 @@
  
  </details>
 
-  
 <details>
   <summary><b><em> 💾 Github Stats </em></b></summary>
   
