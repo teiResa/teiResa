@@ -11,9 +11,6 @@
 </p>
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=teiResa&hide_title=TRUE&show_icons=true&theme=monokai)
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
 
 
@@ -40,7 +37,7 @@
 <details>
   <summary><b><em> 💾 Github Stats </em></b></summary>
   
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=teiResa&hide_title=TRUE&show_icons=true&theme=monokai)
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
   
