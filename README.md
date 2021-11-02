@@ -3,25 +3,6 @@
   <br><br>
   
   
-  
-  
-  
-  <html>
-
-  <body>
-    <div id="typewriter">
-          <h1>
-						<span class="text-1">heading</span>
-						<span class="text-2">JavaScriipt?</span>
-				</h1>
-      <div id="border"></div>
-    </div>
-  </body>
-</html>
-
-  
-  
-  
   <samp>
    I'm currently working on an <em> open source website </em> templates among other teaching tools to help mainly <i> second language </i> teachers, 
    <br> for instance the ESL Teachers in China. 
