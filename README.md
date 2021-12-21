@@ -12,11 +12,11 @@
   </samp>
 </p>
 
-<div align="center" id="trophiesAndShowingOff">
+<article align="center" id="trophiesAndShowingOff">
    [![trophy](https://github-profile-trophy.vercel.app/?username=teiResa&theme=darkhub&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
   ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
- </div>
+ </article>
 
 
 
