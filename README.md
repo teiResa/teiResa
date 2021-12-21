@@ -23,14 +23,15 @@
 </details>
 
 <details>
-  <summary><b><em> :calendar: Summer Quarter Goals </em></b></summary>
-  For July through September:
+  <summary><b><em> :calendar: Winter Quarter Goals </em></b></summary>
+  For November through January:
     <ul>
-      <li> Commit 3x weekly </li>
+      <li> Commit min 3 days weekly </li>
       <li> Practice HTML5, CSS, JS </li>
+      <li> Continue working through FreeCodeCamp's Curriculum </li>
       <li> Complete & practice Java course for Uni prep </li>
       <li> Finally finish SoloLearn & PluralSight Courses </li>
-      <li> Experiment with Jekyll for my GH pgs </li>
+      <li> <i> Experiment with Jekyll for my GH pgs </i> </li>
       <li> Keep working on Arduino Projects </li>
      </ul
  
