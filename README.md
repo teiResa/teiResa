@@ -13,7 +13,7 @@
 </p>
 
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=teiResa&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=teiResa&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
 
