@@ -12,14 +12,11 @@
   </samp>
 </p>
 
-<div align="center">
- [![trophy](https://github-profile-trophy.vercel.app/?username=teiResa&theme=darkhub&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center" id="trophiesAndShowingOff">
+   [![trophy](https://github-profile-trophy.vercel.app/?username=teiResa&theme=darkhub&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript-125x28.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
-
-  </div>
+  ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
+ </div>
 
 
 
