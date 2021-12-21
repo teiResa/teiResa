@@ -46,6 +46,8 @@
   
    
  </details>
+      
+      [![trophy](https://github-profile-trophy.vercel.app/?username=teiResa)](https://github.com/ryo-ma/github-profile-trophy)
        
       
 
