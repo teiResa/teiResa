@@ -13,6 +13,8 @@
 </p>
 
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=teiResa)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
 
 
@@ -47,7 +49,7 @@
    
  </details>
       
-      [![trophy](https://github-profile-trophy.vercel.app/?username=teiResa)](https://github.com/ryo-ma/github-profile-trophy)
+  
        
       
 
