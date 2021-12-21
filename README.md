@@ -1,3 +1,5 @@
+<div align="center" id="trophiesAndShowingOff" >
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="61px">
   <br><br>
@@ -12,10 +14,8 @@
   </samp>
 </p>
 
-<div align="center" id="trophiesAndShowingOff" >
-  
-  
-   ![[trophy](https://github-profile-trophy.vercel.app/?username=teiResa&theme=darkhub&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=teiResa&theme=darkhub&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
   ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
 </div>
