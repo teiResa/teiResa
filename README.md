@@ -16,6 +16,9 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=teiResa&theme=darkhub&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/frapsoft/frapsoft/)
+
 
 
 <details>
