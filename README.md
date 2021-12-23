@@ -19,7 +19,7 @@
 
   ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
   
-  <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif">
+  <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" heigt="10px">
   
   <svg viewBox="0 0 200 200" xmlns="https://teiresa.github.io/background/typeWriter/typeWriter.html">
 
