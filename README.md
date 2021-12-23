@@ -21,7 +21,7 @@
   
   <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" heigt="10px">
   
-  <svg viewBox="0 0 200 200" xmlns="https://teiresa.github.io/background/typeWriter/typeWriter.html">
+  <svg viewBox="0 0 20 20" xmlns="https://teiresa.github.io/background/typeWriter/typeWriter.html">
 
     
    
