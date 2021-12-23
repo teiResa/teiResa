@@ -19,17 +19,16 @@
 
   ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
   
-  <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" heigt="10px">
+  <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" height="35px">
   
+  
+  <!--
   <svg viewBox="0 0 20 20" xmlns="https://teiresa.github.io/background/typeWriter/typeWriter.html">
-
-    
-   
-  <foreignObject x="20" y="20" width="20px" height="10px">
-    <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif">
-  </foreignObject>
-</svg>
-  
+    <foreignObject x="20" y="20" width="20px" height="10px">
+      <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif">
+    </foreignObject>
+  </svg>
+  -->
   
   
   
