@@ -22,7 +22,7 @@
   
   <svg viewBox="0 0 200 200" xmlns="https://teiresa.github.io/background/typeWriter/typeWriter.html">
 
-  <foreignObject x="20" y="20" width="60px" height="40">
+  <foreignObject x="20" y="20" width="20px" height="10px">
     <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif">
   </foreignObject>
 </svg>
