@@ -14,10 +14,6 @@
   </samp>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=teiResa&theme=darkhub&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-  ![](https://visitor-badge.laobi.icu/badge?page_id=teiResa)
   
   <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" height="35px">
   
