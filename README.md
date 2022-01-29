@@ -42,15 +42,16 @@
 
 <details>
   <summary><b><em> :calendar: Winter Quarter Goals </em></b></summary>
-  For November through January:
+  For January through March:
     <ul>
       <li> Commit min 3 days weekly </li>
-      <li> Practice HTML5, CSS, JS </li>
+      <li> Practice HTML5, CSS, bootstrap, JS </li>
       <li> Continue working through FreeCodeCamp's Curriculum </li>
       <li> Complete & practice Java course for Uni prep </li>
       <li> Finally finish SoloLearn & PluralSight Courses </li>
       <li> <i> Experiment with Jekyll for my GH pgs </i> </li>
       <li> Keep working on Arduino Projects </li>
+      <li> Make personal site/portfolio better </li>
      </ul
  
  </details>
