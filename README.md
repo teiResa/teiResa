@@ -51,7 +51,7 @@
       <li> Finally finish SoloLearn & PluralSight Courses </li>
       <li> <i> Experiment with Jekyll for my GH pgs </i> </li>
       <li> Keep working on Arduino Projects </li>
-      <li> Make personal site/portfolio better </li>
+      <li> Make personal site/portfolio stronger </li>
      </ul
  
  </details>
