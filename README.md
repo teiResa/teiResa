@@ -16,7 +16,8 @@
 
   
   <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" height="35px">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teiResa)](https://git.io/streak-stats)
+ <br>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teiResa&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824)](https://git.io/streak-stats)
   
   
   <!--
