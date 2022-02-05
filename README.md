@@ -18,6 +18,7 @@
   <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" height="35px">
  <br>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teiResa&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824)](https://git.io/streak-stats)
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=teiResa&show_icons=true&locale=en&theme=radical" alt="anarbb" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=anarbb&theme=radical" alt="anarbb" /></p>
   
   
   <!--
