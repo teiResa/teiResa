@@ -1,7 +1,7 @@
 <div align="center" id="trophiesAndShowingOff" >
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="61px">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="61px" tabindex="-1">
   <br><br>
   
   
