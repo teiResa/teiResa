@@ -1,7 +1,7 @@
 <div align="center" id="trophiesAndShowingOff" >
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="61px" tabindex="-1">
+<p align="center" tabindex="-1">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="61px">
   <br><br>
   
   
@@ -17,10 +17,10 @@
   
   <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" height="35px">
  <br>
-  
+<!--   
   <p align="center"><img src="
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teiResa&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824)](https://git.io/streak-stats)
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=teiResa&a&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824" /></p>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teiResa&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824)](https://git.io/streak-stats) -->
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=teiResa&a&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824" tabindex="-1"/></p>
   
   
   <!--
