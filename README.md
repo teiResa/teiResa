@@ -51,9 +51,10 @@
 
 
 <details>
-  <summary><b><em> :calendar: Winter Quarter Goals </em></b></summary>
-  For January through March:
+  <summary><b><em> :calendar: Summer Quarter Goals </em></b></summary>
+  For June through August:
     <ul>
+      <li> Commit to a balanced schedule </li>
       <li> Commit min 3 days weekly </li>
       <li> Practice HTML5, CSS, bootstrap, JS </li>
       <li> Continue working through FreeCodeCamp's Curriculum </li>
