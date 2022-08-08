@@ -51,16 +51,16 @@
 
 
 <details>
-  <summary><b><em> :calendar: Summer Quarter Goals </em></b></summary>
-  For June through August:
+  <summary><b><em> :calendar: Third Quarter Goals </em></b></summary>
+  For July through September:
     <ul>
       <li> Commit to a balanced schedule </li>
       <li> Commit min 3 days weekly </li>
       <li> Practice HTML5, CSS, bootstrap, JS </li>
       <li> Continue working through FreeCodeCamp's Curriculum </li>
-      <li> Complete & practice Java course for Uni prep </li>
+      <li> Complete & practice Java course for Uni </li>
       <li> Finally finish SoloLearn & PluralSight Courses </li>
-      <li> <i> Experiment with Jekyll for my GH pgs </i> </li>
+      <!-- <li> <i> Experiment with Jekyll for my GH pgs </i> </li> -->
       <li> Keep working on Arduino Projects </li>
       <li> Make personal site/portfolio stronger </li>
      </ul
