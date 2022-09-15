@@ -8,6 +8,7 @@
   <br><br>
   
   
+<!--
   <samp>
    Hi! I'm currently working on an <em> open source website </em> templates
    <br> among other teaching tools to help <i> second language </i> teachers, 
@@ -15,6 +16,7 @@
    <br><br>  
    :sparkles: <a href="#" style="color: #cc992d2;"> TBD </a> :sparkles:
   </samp>
+-->
 </p>
 
   <div tabindex="-1">
