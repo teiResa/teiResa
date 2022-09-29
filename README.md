@@ -67,7 +67,7 @@
       <li> Keep working on Arduino Projects </li>
       <li> Make personal site/portfolio stronger </li>
      </ul
- 
+  <!-- IT IS TIME TO UPDATE THESE ALREADY -->
  </details>
 
 <details>
