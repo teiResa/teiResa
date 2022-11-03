@@ -30,7 +30,7 @@
   
   <!--
   <svg viewBox="0 0 20 20" xmlns="https://teiresa.github.io/background/typeWriter/typeWriter.html">
-    <foreignObject x="20" y="20" width="20px" height="10px">
+    <foreignObject x="20" y="20" width="20px" height="10px" comment hahaha>
       <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif">
     </foreignObject>
   </svg>
