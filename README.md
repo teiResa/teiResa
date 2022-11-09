@@ -60,7 +60,7 @@
       <li> Commit min 3 days weekly </li>
       <li> Practice HTML5, CSS, bootstrap, JS </li>
       <li> Continue working through FreeCodeCamp's Curriculum </li>
-      <li> Continue working through FutureLearn's Curriculum </li>
+      <!-- <li> Continue working through FutureLearn's Curriculum </li> -->
       <li> Complete & practice Java course for Uni </li>
       <!--<li> Finally finish SoloLearn & PluralSight Courses </li>
        <li> <i> Experiment with Jekyll for my GH pgs </i> </li> -->
