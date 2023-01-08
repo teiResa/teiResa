@@ -24,8 +24,8 @@
  <br>
 <!--   
   <p align="center"><img src="
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teiResa&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824)](https://git.io/streak-stats) -->
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=teiResa&a&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824" tabindex="-1"/></p>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teiResa&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824)](https://git.io/streak-stats) 
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=teiResa&a&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824" tabindex="-1"/></p>-->
   
   
   <!--
