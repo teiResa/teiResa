@@ -10,6 +10,8 @@
   
 <!--
   <samp>
+
+UPDATE THIS ALL.
    Hi! I'm currently working on an <em> open source website </em> templates
    <br> among other teaching tools to help <i> second language </i> teachers, 
    <br> for instance the ESL Teachers in China. 
