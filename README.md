@@ -11,7 +11,7 @@
 <!--
   <samp>
 
-UPDATE THIS ALL.
+UPDATE THIS ALL. Maybe wait though, but I really need to spend a week just cleaning, moving, fixing my site.
    Hi! I'm currently working on an <em> open source website </em> templates
    <br> among other teaching tools to help <i> second language </i> teachers, 
    <br> for instance the ESL Teachers in China. 
