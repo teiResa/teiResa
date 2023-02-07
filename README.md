@@ -52,6 +52,21 @@ UPDATE THIS ALL . Maybe wait though, but I really need to spend a week just clea
   <br><br> I'm available for an entry-level or junior front-end dev position. Currently, I can only remote work.
 </details>
 
+<details>
+  <summary><b>:paperclip: About Me</b></summary>
+  
+  I'm a jack-of-all-trades creator living in China.
+  
+  <ul>
+    <li>I build web applications, both front and backend.</li>
+    <li>I am always keen and willing to learn new things to better my work.</li>
+    <li>On my free time, I help answer questions on FreeCodeCamp's Forums and read tech articles</li>
+    <li>I enjoy staying up to date on all Linus Media Group content (LinusTechTips, TechQuickie, ShortCircuit, etc.)</li>
+    <li>I love playing with my Arduino </li>
+  </ul>
+  
+ </details>
+
 
 
 <details>
