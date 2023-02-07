@@ -33,7 +33,6 @@ UPDATE THIS ALL . Maybe wait though, but I really need to spend a week just clea
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teiResa&layout=compact&theme=vision-friendly-dark"/>
   </p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teiResa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   
   <!--
@@ -99,6 +98,13 @@ UPDATE THIS ALL . Maybe wait though, but I really need to spend a week just clea
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=teiResa&hide_title=TRUE&show_icons=true&theme=monokai)
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=teiResa&a&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824" tabindex="-1"/></p>
+  
+  
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teiResa&layout=compact&theme=vision-friendly-dark"/>
+  </p>
   
    
  </details>
