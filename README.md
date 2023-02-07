@@ -28,7 +28,13 @@ UPDATE THIS ALL . Maybe wait though, but I really need to spend a week just clea
   <p align="center"><img src="
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=teiResa&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824)](https://git.io/streak-stats) -->
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=teiResa&a&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=B54668&currStreakLabel=267824" tabindex="-1"/></p>
+  
+  
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teiResa&layout=compact&theme=vision-friendly-dark"/>
+  </p>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teiResa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
   
   <!--
   <svg viewBox="0 0 20 20" xmlns="https://teiresa.github.io/background/typeWriter/typeWriter.html">
