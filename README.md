@@ -57,6 +57,7 @@ UPDATE THIS ALL . Maybe wait though, but I really need to spend a week just clea
     <li>I build web applications, both front and backend.</li>
     <li>I am always keen and willing to learn new things to better my work.</li>
     <li>On my free time, I help answer questions on FreeCodeCamp's Forums and read tech articles</li>
+    <li>I am available for an entry-level or a junior front-end dev position. Currently, I am only available for remote work.</li>
     <li>I enjoy staying up to date on all Linus Media Group content (LinusTechTips, TechQuickie, ShortCircuit, etc.)</li>
     <li>I love playing with my Arduino </li>
   </ul>
