@@ -9,31 +9,16 @@
   <p> I am currently translating the tabbes for :notes: Go Your Own Way :musical_note: into C.</p>
   
   
-<!--
-  <samp>
+  
 
-UPDATE THIS ALL . Maybe wait though, but I really need to spend a week just cleaning, moving, fixing my site.
-   Hi! I'm currently working on an <em> open source website </em> templates
-   <br> among other teaching tools to help <i> second language </i> teachers, 
-   <br> for instance the ESL Teachers in China. 
-   <br><br>  
-   :sparkles: <a href="#" style="color: #cc992d2;"> TBD </a> :sparkles:
-  </samp>
--->
 </p>
 
   <div tabindex="-1">
   <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" height="35px">
  <br>
 
+
   
-  <!--
-  <svg viewBox="0 0 20 20" xmlns="https://teiresa.github.io/background/typeWriter/typeWriter.html">
-    <foreignObject x="20" y="20" width="20px" height="10px" comment hahaha>
-      <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif">
-    </foreignObject>
-  </svg>
-  -->
   
   </div>
   
