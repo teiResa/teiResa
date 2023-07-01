@@ -1,4 +1,4 @@
-<!-- I have left this file very messy intentionally.  -->
+<!-- I have left this file very messy intentionally. I am enjoying watching this file grow and reform. It is interesting for me. -->
 
 
 <div align="center" id="trophiesAndShowingOff" tabindex="-1" >
