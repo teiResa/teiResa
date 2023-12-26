@@ -1,6 +1,6 @@
 <!-- I have left this file very messy intentionally. I am enjoying bbbbbbbb watching this file grow and reform. It is interesting for me.  Teeeeeeeeest gggggggg yyyyyyy cccccccccc vvvvvvvv  bbbbbb ddddddddd gggggggg pppppppppp ttttttttt eegfgeeeeeeee mmmeeeeeee ewwwww keeeeeeeeeeeey
 
-And I have been making great strides with digital art. I'm starting to not hate everything I make.
+And I have been making great strides with digital art. I'm starting to not hate everything I make. fgdddddddddd
 
 I am currently working on 30 days of drawing daily. I might keep going with it to 100 days like ïdid with the drinking streak. Non-drinking, but I should probab ly calculate whether I have passed 100 days yet.
 
