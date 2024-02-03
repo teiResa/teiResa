@@ -2,6 +2,8 @@
 
 And I have been making great strides with digital art. I'm starting to not hate everything I make. fgdddddddddd
 
+I've been busy designing these past few days. 2023-01-03
+
 I am currently working on 30 days of drawing daily. I might keep going with it to 100 days like ïdid with the drinking streak. Non-drinking, but I should probab ly calculate whether I have passed 100 days yet. For not drinking any alcohol, I am at 201. Crazy.
 
 I started in October, it's now the 19th of December, but I am still drawing daily. I plan to finish this sketchbook by Lunar New Years or Valentines day. Maybe by a month after opening it.
