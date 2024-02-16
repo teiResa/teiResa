@@ -28,9 +28,11 @@ I started in October, it's now the 19th of December, but I am still drawing dail
   <div tabindex="-1">
   <img src="https://teiresa.github.io/background/typeWriter/typewriter.gif" height="35px">
  <br>
-
+<!--
 Github isn't working within mainland, but I cannot see it mentioned anywhere online. I am still working on stuff, it just won't show up here until TBD. If this continues, I may reluctantly join Gitee. I'm currently trying Gitlab under the same username.
-  
+  -->
+
+  Github sometimes stops working in the mainland, so if I disappear, check my gitlab account under this same username. 
   
   </div>
   
