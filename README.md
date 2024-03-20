@@ -2,6 +2,8 @@
 
 And I have been making great strides with digital art. I'm starting to not hate everything I make. fgdddddddddd
 
+teeeeeeeeeeeeeesting 2024-03-20
+
 I've been busy designing these past few days. 2023-01-03
 
 Should I upload my yt and bb videos to github too? Probably not, but maybe that vemoe site?
