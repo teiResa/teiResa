@@ -2,7 +2,7 @@
 
 And I have been making great strides with digital art. I'm starting to not hate everything I make. fgdddddddddd
 
-teeeeeeeeeeeeeesting 2024-03-20
+teeeeeeeeeeeeeesting 2024-03-20, 03-22 i cleaned all day
 
 I've been busy designing these past few days. 2023-01-03
 
