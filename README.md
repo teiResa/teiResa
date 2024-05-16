@@ -24,7 +24,7 @@ I started in October, it's now the 19th of December, but I am still drawing dail
      <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="61px">
   </div>
   
-  <p> I am currently translating the tabs for :notes: Go Your Own Way and a few other songs :musical_note: into C.<!-- It is going well, but i got distracted by Android and a Data Science course.--></p>
+  <p> I am currently translating the tabs for :notes: Go Your Own Way and a few other songs :musical_note: into C.<!-- It is going well, but i got distracted by Android and a Data Science course.--> and am making a local site to inform English-speakers (not a local language, but there is a huge population) on whether the air-raid sirens they hear are an actual emergency.  </p>
   
   
   
