@@ -39,7 +39,7 @@ Github isn't working within mainland, but I cannot see it mentioned anywhere onl
   -->
 
   Github sometimes stops working in the mainland, so if I disappear, check my gitlab account under this same username. 
-  
+  <a href="https://crochetcount.netlify.app/">Crochet Count APP</a>
   </div>
   
 </div>
