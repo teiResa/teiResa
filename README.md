@@ -13,6 +13,8 @@ Should I upload my yt and bb videos to github too? Probably not, but maybe that 
 I am currently working on 30 days of drawing daily. I might keep going with it to 100 days like ïdid with the drinking streak. Non-drinking, but I should probab ly calculate whether I have passed 100 days yet. For not drinking any alcohol, I am at 201. Crazy.
 
 I started in October, it's now the 19th of December, but I am still drawing daily. I plan to finish this sketchbook by Lunar New Years or Valentines day. Maybe by a month after opening it.
+
+2024-07-06 Health tests results hyperfocus day. Taking a rest and i'll work in a bit. Just committing to beat midnight. I did review earlier, so it's okay.
 -->
 
 
