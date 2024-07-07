@@ -15,6 +15,8 @@ I am currently working on 30 days of drawing daily. I might keep going with it t
 I started in October, it's now the 19th of December, but I am still drawing daily. I plan to finish this sketchbook by Lunar New Years or Valentines day. Maybe by a month after opening it.
 
 2024-07-06 Health tests results hyperfocus day. Taking a rest and i'll work in a bit. Just committing to beat midnight. I did review earlier, so it's okay.
+
+2024-07-07 Still feeling out of it today, but tonight I am trying to figure out what is going on with the font awesome urls. This is a safety commit because my brain is really struggling to think today.
 -->
 
 
