@@ -19,6 +19,8 @@ I started in October, it's now the 19th of December, but I am still drawing dail
 2024-07-07 Still feeling out of it today, but tonight I am trying to figure out what is going on with the font awesome urls. This is a safety commit because my brain is really struggling to think today.
 
 2024-07-08 PSB again today. D baught the train tickets for the 9th, so hopefully they just cooperate already.
+
+2024-07-09 Panic packing on like 3 hours of sleeo. This is a safety commit. I will work, but the internet will likely suck.
 -->
 
 
