@@ -20,7 +20,12 @@ I started in October, it's now the 19th of December, but I am still drawing dail
 
 2024-07-08 PSB again today. D baught the train tickets for the 9th, so hopefully they just cooperate already.
 
-2024-07-09 Panic packing on like 3 hours of sleeo. This is a safety commit. I will work, but the internet will likely suck.
+2024-07-09 Panic packing on like 3 hours of sleep. This is a safety commit. I will work, but the internet will likely suck.
+
+2024 Summer tour ( working notes for project)
+
+2024-07-10 Yesterday was such a fun day! After arriving in Shanghai, we walked around the Huangpu district and to the bund. We walked around the lovely park and enjoyed the less-awful than Hangzhou's 35 degree weather as the humidity was half of what we have been living in. We found cooling shirt spray, which I definiely temperarily enjoy. We ended up at a restaurant David saw online called the Barbarian (pinapple skewer, mushrooms skewer, tri-coloured potatoes, and seabass with a cheesy Korean chili sauce) at the K11 mall. We saw the Oriental Pearl from a distance during the day and went to see the lights along the waterfront at night. It was beautiful. We took pictures with three sets of students, then walking we found a tuesday night Jazz show at a club called Blues & Jazz. IT was alright and expensive. 50 kuai each at the door plus three drinks (110kuai each rounded up), and David asked for water but they brought a big litre bottle of Sanpallegrino (maybe 60kuai). I guess they don't just give out water like bars and restaurants? It's fine, we're dehydrated anyways.
+
 -->
 
 
