@@ -28,6 +28,8 @@ I started in October, it's now the 19th of December, but I am still drawing dail
 
 2024-07-11 flight scheduled to Munich. We went to the Shnaghai Museum, and had fantastic schwarma at Eli Shawarma. Made it to the airport early, got through without any issues, then had a yummy kimchi grilled cheese with dry ass chicken at O'Mill's . I ate the chicken seperate. The flight was delayed while we were at the gate but onboard, so we have been sitting here an hour so far just chillin. Many peopl ekeep bitching about their connection flights and such. I have cramps and need a changing coon. I  am alright. It was said to be 60 to 90 minutes, so our layover should be not long enough to see Munich. I am sad, but tired  anyways. This commit was written sitting before the plane takes taxi. KK, love you, byeeeeeeeeeeee
 
+2024-07-12 We flew to Montreal with aslight delay from the air system not working. Noon the next day at my parents, we talked about trains with my dad for like two hours. Now David and Gary are compairing YouTube feeds.
+
 -->
 
 
