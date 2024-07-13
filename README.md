@@ -30,6 +30,8 @@ I started in October, it's now the 19th of December, but I am still drawing dail
 
 2024-07-12 We flew to Montreal with aslight delay from the air system not working. Noon the next day at my parents, we talked about trains with my dad for like two hours. Now David and Gary are compairing YouTube feeds.
 
+2024-07-13 Went to Happy Lamb Hot Pot with Gary, David, and Ryan from school. it was yummy and good conversation. now we are currently driving on hwy 417 driving to Brazeau's new place for his party tonight. Not sure if people know we are coming.
+
 -->
 
 
