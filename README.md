@@ -32,6 +32,8 @@ I started in October, it's now the 19th of December, but I am still drawing dail
 
 2024-07-13 Went to Happy Lamb Hot Pot with Gary, David, and Ryan from school. it was yummy and good conversation. now we are currently driving on hwy 417 driving to Brazeau's new place for his party tonight. Not sure if people know we are coming.
 
+2024-07-14 Celine and Alex brought a coffee for me, but i missed them as i was asleep. i thanked on text. Marc picked me up to meed david and hangout at guillaume brazeau's. a few hours later Marc drove us to Lise's place off place d'orleans . we are having a beer and figuring out a taxes issue for them.
+
 -->
 
 
