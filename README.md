@@ -32,7 +32,9 @@ I started in October, it's now the 19th of December, but I am still drawing dail
 
 2024-07-13 Went to Happy Lamb Hot Pot with Gary, David, and Ryan from school. it was yummy and good conversation. now we are currently driving on hwy 417 driving to Brazeau's new place for his party tonight. Not sure if people know we are coming.
 
-2024-07-14 Celine and Alex brought a coffee for me, but i missed them as i was asleep. i thanked on text. Marc picked me up to meed david and hangout at guillaume brazeau's. a few hours later Marc drove us to Lise's place off place d'orleans . we are having a beer and figuring out a taxes issue for them.
+2024-07-14 Celine and Alex brought a coffee for me, but i missed them as i was asleep. i thanked on text. Marc picked me up to meed david and hangout at guillaume brazeau's. a few hours later Marc drove us to Lise's place off place d'orleans . we are having a beer and figuring out a taxes issue for them. Also, the news is all over Donald Trump being shot recently.
+
+2024-07-15 Relatively relaxed day. Some  intimacy, but mostly errands. Our planned dinner with the three of us and Zack ended up being David and I cooking for the four of us with Claire, Fern, and beau-grand-pere. Corn, and roasted porc belly and chicken. Asperagus, carrots, and a third. All is good. The news says it has been a heat wave. We have been cold. I love visiting for summer! 
 
 -->
 
