@@ -36,6 +36,9 @@ I started in October, it's now the 19th of December, but I am still drawing dail
 
 2024-07-15 Relatively relaxed day. Some  intimacy, but mostly errands. Our planned dinner with the three of us and Zack ended up being David and I cooking for the four of us with Claire, Fern, and beau-grand-pere. Corn, and roasted porc belly and chicken. Asperagus, carrots, and a third. All is good. The news says it has been a heat wave. We have been cold. I love visiting for summer! 
 
+2024-07-23 Done camping and being without internet, I believe. Picked up a textbook called Bug Bounty Bootcamp from Chapters today while walking around with Céline.
+
+2024-07-24 Reading BBB today. Logged on to include this studying in my commits. Also, everyone used those QRs for their Wifi now. If you need it for pc, scan using the camera app and type the content following P: (exclusive) into the password field.
 -->
 
 
