@@ -39,6 +39,8 @@ I started in October, it's now the 19th of December, but I am still drawing dail
 2024-07-23 Done camping and being without internet, I believe. Picked up a textbook called Bug Bounty Bootcamp from Chapters today while walking around with Céline.
 
 2024-07-24 Reading BBB today. Logged on to include this studying in my commits. Also, everyone used those QRs for their Wifi now. If you need it for pc, scan using the camera app and type the content following P: (exclusive) into the password field.
+
+2024-07-27 yesterday i barely read BBB. Today is the big Dutrisac party, then tonight we are at Guillaume's again. I will work tomorrow, as it is a movie marathon. I am getting ready and packed quickly now, as I wish to read some more this morning.
 -->
 
 
