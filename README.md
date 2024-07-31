@@ -41,6 +41,13 @@ I started in October, it's now the 19th of December, but I am still drawing dail
 2024-07-24 Reading BBB today. Logged on to include this studying in my commits. Also, everyone used those QRs for their Wifi now. If you need it for pc, scan using the camera app and type the content following P: (exclusive) into the password field.
 
 2024-07-27 yesterday i barely read BBB. Today is the big Dutrisac party, then tonight we are at Guillaume's again. I will work tomorrow, as it is a movie marathon. I am getting ready and packed quickly now, as I wish to read some more this morning.
+
+2024-07-30 yesterday Veronica picked me up Lise's then we got subway in Embrun before arriving at the parents'. Today i slept in until noon, made an drippy english muffin, and picked up Chinese in Embrun for dinner alone with Dad. well, also played with Axel, whi bumped my nose and lip. The lip has shrunk back down, but my nose gave me a headache. Which i was helping my sister with homework, i asked dad if he had an example of a fallacy. He said the horn of a unicorn because its horn is phallic.
+
+AJR World's Smallest Violin
+Roses - saing jhn
+shaboozey a bar song
+tipsy j-kwon
 -->
 
 
