@@ -48,6 +48,10 @@ AJR World's Smallest Violin
 Roses - saing jhn
 shaboozey a bar song
 tipsy j-kwon
+
+2024-07-31 well, i am sick of seeing my siblings. Cheryl dropped by, Gary officially left, and now it is just Veronica, the folks, and me. Veronica had started being mean, so i am done hanging out with her. That was yesterday, but it continues into today. Apparently everything I do is wrong, so fuck it, I will chill alone until I can return to David in Orleans. But i am also annoyed with him for over-scheduling us, so now i will be burnt out before we start flying again. Greeeeat.
+
+
 -->
 
 
