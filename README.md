@@ -53,6 +53,7 @@ tipsy j-kwon
 
 2024-08-01 i haven't done much today. Just hangngout and downloading episodes of Shoresy and Letterkenny. I am watching too many shows right now, but i started another today Fired On Mars. This afternoon I will have my parents drop me at either Lise's or Celine's. We have a group dinner at Perkins at 19:00. Eggs Benny!
 
+2024-08-08 (because it's after midnight) We have been home since the night of th 7th, so i am finally updating now. We have been rather exhausted, so we mostly just did house work between naps. Yesterday morning (the 7th) we took a 05:30, 5km walk and grabbed jianbing and baozi. 
 
 -->
 
