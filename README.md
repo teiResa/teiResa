@@ -55,6 +55,8 @@ tipsy j-kwon
 
 2024-08-08 (because it's after midnight) We have been home since the night of th 7th, so i am finally updating now. We have been rather exhausted, so we mostly just did house work between naps. Yesterday morning (the 7th) we took a 05:30, 5km walk and grabbed jianbing and baozi. 
 
+2024-08-09 Yesterday I meant to study or work or paint, however I ended up having a nap (well just sleeping the night) between 6pm and 23:00. Sucks, as i meant this to only be a two hour nap at maximum. 23:00-ish to around 03:00 I cleaned and tried to return our home to normal. We will be heading out for a walk ina bout an hour.
+
 -->
 
 
