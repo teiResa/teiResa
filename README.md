@@ -57,6 +57,8 @@ tipsy j-kwon
 
 2024-08-09 Yesterday I meant to study or work or paint, however I ended up having a nap (well just sleeping the night) between 6pm and 23:00. Sucks, as i meant this to only be a two hour nap at maximum. 23:00-ish to around 03:00 I cleaned and tried to return our home to normal. We will be heading out for a walk ina bout an hour.
 
+2024-08-11 worked on wall printer and crochet started cat ear rectangle hat
+
 -->
 
 
