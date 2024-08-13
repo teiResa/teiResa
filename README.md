@@ -59,6 +59,8 @@ tipsy j-kwon
 
 2024-08-11 worked on wall printer and crochet started cat ear rectangle hat
 
+2024-08-13 i think i just crocheted and tried not to puke all day yesterday. Today I am working on the wall printed and crocheting the Chubby Chick 🐥 
+
 -->
 
 
