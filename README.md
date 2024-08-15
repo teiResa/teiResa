@@ -61,6 +61,8 @@ tipsy j-kwon
 
 2024-08-13 i think i just crocheted and tried not to puke all day yesterday. Today I am working on the wall printed and crocheting the Chubby Chick 🐥 
 
+2024-08-15 working on videos. three new ones recorded and ready (well, transferring via bluetooth) for editing. Editing one of the three now.
+
 -->
 
 
