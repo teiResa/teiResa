@@ -63,6 +63,8 @@ tipsy j-kwon
 
 2024-08-15 working on videos. three new ones recorded and ready (well, transferring via bluetooth) for editing. Editing one of the three now.
 
+2024-08-20 I crocheted the chicken today, and finally replaced the burnt out light socket in the kitchen. Tomorrow I will force myself to study all day. Tonight I will review my code and figure out a plan for tomorrow.
+
 -->
 
 
