@@ -65,7 +65,7 @@ tipsy j-kwon
 
 2024-08-20 I crocheted the chicken today, and finally replaced the burnt out light socket in the kitchen. Tomorrow I will force myself to study all day. Tonight I will review my code and figure out a plan for tomorrow.
 
-2024-08-21 I reviewed my scrimba js study notes in the recap file. I felt confident in my memory, so now I will continue the course this afternoon. I will take a break and crochet or draw for now.
+2024-08-21 I reviewed my scrimba js study notes in the recap file. I felt confident in my memory, so now I will continue the course this afternoon. I will take a break and crochet or draw for now. 80-22 i crochet a bag for carrying my ipad about in. it's cute. I did pretty well. it would probably get a 70% if graded. Not bad considering it is my 5th thing i have crocheted 
 
 -->
 
