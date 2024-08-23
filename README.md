@@ -2,7 +2,7 @@
 
 And I have been making great strides with digital art. I'm starting to not hate everything I make. fgdddddddddd
 
-2024-03-25, i spent about an hour trying to fetch the depo, which i only have like half an hour until my call now. Daruma time! I am so sore and tired. A thunderstorm started while we were running at the asia games park. hjashdfjahfsjhajsfh
+2024-03-25, i spent about an hour trying to fetch the depo, which i only have like half an hour until my call now. Daruma time! I am so sore and tired. A thunderstorm started while we were running at the asia games park. hjashdfjahfsjhajsfhasdfasdf
 
 teeeeeeeeeeeeeesting 2024-03-20, 03-22 i cleaned all day
 
