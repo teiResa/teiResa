@@ -67,6 +67,8 @@ tipsy j-kwon
 
 2024-08-21 I reviewed my scrimba js study notes in the recap file. I felt confident in my memory, so now I will continue the course this afternoon. I will take a break and crochet or draw for now. 80-22 i crochet a bag for carrying my ipad about in. it's cute. I did pretty well. it would probably get a 70% if graded. Not bad considering it is my 5th thing i have crocheted 
 
+2024-08-24 today is scrimba day. I can feel it! Once Suze is done and I am awake, I'll start.
+
 -->
 
 
