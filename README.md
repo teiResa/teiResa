@@ -69,6 +69,8 @@ tipsy j-kwon
 
 2024-08-24 today is scrimba day. I can feel it! Once Suze is done and I am awake, I'll start.
 
+tomorrow i will rock a full 12 hours 
+
 -->
 
 
