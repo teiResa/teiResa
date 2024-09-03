@@ -71,6 +71,8 @@ tipsy j-kwon
 
 tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in preparation for a full few days
 
+2024-09-03 new phone day! My last was 2019, and 2017
+
 -->
 
 
