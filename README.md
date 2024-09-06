@@ -74,6 +74,8 @@ tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in prepara
 2024-09-03 new phone day! My last was 2019, and 2017                         fourth too
 
 2-25-09-05 Today i am trying to figure out how to start a .bat file with task scheduler because I do the same task every time i turn on my laptop. Also I streamed for the first time. Dino game and started OBS
+
+2024-09-06 tried to stream from pc but too many issues. Might try David's computer.
 -->
 
 
