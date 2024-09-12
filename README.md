@@ -77,6 +77,8 @@ tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in prepara
 
 2024-09-06 tried to stream from pc but too many issues. Might try David's computer. 07  streeeeeeeeeeam 08 editing and stream. I plan to code too. 08, 09, too
 
+2024-09-13 04:40 iPad dead. Shower and bed
+
 -->
 
 
