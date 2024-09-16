@@ -79,6 +79,8 @@ tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in prepara
 
 2024-09-13 04:40 iPad dead. Shower and bed
 
+2024-09-16 streamed, but not yesterday because I was social. Today was a good stream :)
+
 -->
 
 
