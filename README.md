@@ -81,6 +81,8 @@ tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in prepara
 
 2024-09-16 streamed, but not yesterday because I was social. Today was a good stream :)
 
+2024-09-17 my new streamer from yesterday hung out with me today again. I like chatting with him, Bensen, and my otehr viewers/followers. I like this all so far. People have started to mention my camera being off, but i think i will wait until like 20 followers or 50 followers. 50 is affiliate numbers. Today i am at 7/10 followers, and one follower lost to account deactivation/termination.
+
 -->
 
 
