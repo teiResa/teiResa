@@ -120,7 +120,7 @@ Github isn't working within mainland, but I cannot see it mentioned anywhere onl
   <a href="https://crochetcount.netlify.app/">Crochet Count APP</a></p>
   </div>
 
-  <iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/twitch-live-follower-counter/theresa_di_pepperoncini style="border: 0; width:300px; height:80px;"></iframe>
+  
   
 </div>
 
