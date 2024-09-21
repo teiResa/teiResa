@@ -85,6 +85,8 @@ tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in prepara
 
 2024-09-19 doing my nails then gaming stream. Second typhoon in a week (14 or 15 of season) was redirected up to Shanghai again.
 
+2024-09-21 skipped morning stream. Feeling guilty. I think i may need to push it back on the schedule. (Saturday's )
+
 -->
 
 
