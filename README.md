@@ -100,7 +100,9 @@ tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in prepara
   
   <p> I am currently translating the tabs for :notes: Go Your Own Way and a few other songs :musical_note: into C.<!-- It is going well, but i got distracted by Android and a Data Science course.--> <!-- and a local site to inform English-speakers (not a local language, but there is a huge population) on whether the air-raid sirens they hear are an actual emergency. --> </p>
   
-  
+
+
+  <img src="https://dashboard.twitch.tv/widgets/goal/theresa_di_pepperoncini" height="160px" width="1480px">
   
 
 </p>
