@@ -102,7 +102,7 @@ tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in prepara
   
 
 
-  <img src="https://dashboard.twitch.tv/widgets/goal/theresa_di_pepperoncini" height="160px" width="1480px">
+  
   
 
 </p>
@@ -119,6 +119,8 @@ Github isn't working within mainland, but I cannot see it mentioned anywhere onl
   <p>If you need it, here is my 
   <a href="https://crochetcount.netlify.app/">Crochet Count APP</a></p>
   </div>
+
+  <iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/twitch-live-follower-counter/theresa_di_pepperoncini style="border: 0; width:300px; height:80px;"></iframe>
   
 </div>
 
