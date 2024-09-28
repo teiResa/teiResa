@@ -89,6 +89,8 @@ tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in prepara
 
 2024-09-26 met 420StonerBabe on twitch, hopefully we will be able to pair up sometimes. I got 5 new followers today, so 32 to go until affiliation (50) like 700 comments, 8 chatters, and hosted the first thursday followers event.
 
+2024-09-28 streamed and drew. put screens in windows. Waffles!
+
 -->
 
 
