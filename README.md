@@ -1,4 +1,4 @@
-<!-- I have left this file very messy intentionally. I am enjoying bbbbbbbb watching this file grow and reform. It is interesting for me.  Teeeeeeeeest gggggggg yyyyyyy cccccccccc vvvvvvvv  bbbbbb ddddddddd gggggggg pppppppppp ttttttttcvnnnnnnnnnt eegfgeeeeeeee mmmeeeeeee ewwwww keeeeeeeeeeeey j jkjkj kjkkjjg jkoljhujjol 
+<!-- I have left this file very messy intentionally. I am enjoying bbbbbbbb watching this file grow and reform. It is interesting for me.  Teeeeeeeeest gggggggg yyyyyyy cccccccccc vvvvvvvv  bbbbbb ddddddddd gggggggg pppppppppp ttttttttcvnnnnnnnnnt eegfgeeehmnghjmghkgkgeeeee mmmeeeeeee ewwwww keeeeeeeeeeeey j jkjkj kjkkjjg jkoljhujjol 
 
 And I have been making great strides with digital art. I'm starting to not hate everything I make. fgdddddddddd
 
