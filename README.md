@@ -127,16 +127,28 @@ Github isn't working within mainland, but I cannot see it mentioned anywhere onl
   
   
 </div>
+<details>
+  <summary><b>:notebook: 2024 goal</b></summary>
+  <ul>
+    <li> I am finishing up an English Air-Raid siren schedule site for English speakers in Mainland China.</li>
+    <li> Translating music for Aurduino use</li>
+    <li> Commissions are open for logos, profile pictures, and various graphic design work. </li>
+    <li> I stream on Twitch four nights a week (noon EST). Link in bio, come say hi! </li>
+  
+  </ul>
+  
+  <br><br> I'm available for an entry-level or junior front-end dev position. Currently, I can only remote work.
+</details>
 
-
-
+<!--
 <details>
   <summary><b>:notebook: 2022 goal</b></summary>
-  I planed to transfer my site <a href="https://techkeen.wixsite.com/website">TechKeen</a> from WIX to My GitHub <a href="https://teiresa.github.io/"> Page </a>. I plan to keep https://teiresa.github.io/ as the highest in the hiarchy, so <i>TechKeen </i> would really just be like a project, but like a project I treat as it's own thing. Currently, the high site is being tricky. I'm working on giving it a complete facelift while I have the time.
+  I planned to transfer my site <a href="https://techkeen.wixsite.com/website">TechKeen</a> from WIX to My GitHub <a href="https://teiresa.github.io/"> Page </a>. I plan to keep https://teiresa.github.io/ as the highest in the hiarchy, so <i>TechKeen </i> would really just be like a project, but like a project I treat as it's own thing. Currently, the high site is being tricky. I'm working on giving it a complete facelift while I have the time.
   </br></br> In the future, I will hopefully buy a domain. Until then, it gets to live here. 
   
   <br><br> I'm available for an entry-level or junior front-end dev position. Currently, I can only remote work.
 </details>
+-->
 
 <details>
   <summary><b>:paperclip: About Me</b></summary>
