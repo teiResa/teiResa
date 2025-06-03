@@ -93,6 +93,8 @@ tomorrow i will rock a full 12 hours. Tonight i am cleaning my office in prepara
 
 2024-09-28 streamed and drew. put screens in windows. Waffles!
 
+2025-06-03 I streamed again. At this point I have streamed over 800 hours. I really enjoy streaming. Today was a bad day, but generally i really enjoy streaming. Today was just a bad day. A bunch of people said things that I took as insults. They surely were being rude, but probably as a joke. Lame humour, but humour nonetheless. I really have been negelecting the programmer (and the fitness girl) inside of me, so it is time I get my shit back together and stop neglecting such large parts of myself. 
+
 -->
 
 
