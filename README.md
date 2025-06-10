@@ -2,7 +2,7 @@
 
 dfgdas
 
-2025-06-10 studies for like 7 hours. Mostly react, and some review.
+2025-06-10 studies for like 7 hours. Mostly react, and some review. Slept like 3 hours? I think 6 with waking up and other housely noises. 15:00 to 23:00.
 2025-06-09 studied 
 
 2025-06-08 day two back studying. I feel good about myself. I need to keep the habit. (Attempting React but i think i might need to revisit Javascript first)
