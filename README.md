@@ -2,6 +2,9 @@
 
 dfgdas
 
+2025-06-10 studies for like 7 hours. Mostly react, and some review.
+2025-06-09 studied 
+
 2025-06-08 day two back studying. I feel good about myself. I need to keep the habit. (Attempting React but i think i might need to revisit Javascript first)
 
 2025-06-07 i signed up for LeetCode today. Someone mentioned it in chat, and i saw it mentioned a few times online. So far I am feeling like it should be helpful. Couldn't submit becuase i am too lazy to look for Doraemon phone. I'll come back when i find it. FreeCodeCamp has a new FE FS Dev program, so I am doing it.  (Bootstrap, JQuery, and SASS done)
