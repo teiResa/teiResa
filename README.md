@@ -3,6 +3,7 @@ Tueday visa day 2025 hangxiety looked at places  stomach issues
 
 got keys, day 2 of cleaning new big appt. Took a day off, and today He hydrovacced the couches while i cleaned the main areas of the old apartment some, and cleaned and packed stuff to bring over.
 dfgdas
+2025-07-20 moving desktop to new place
 
 2025-06-10 studies for like 7 hours. Mostly react, and some review. Slept like 3 hours? I think 6 with waking up and other housely noises. 15:00 to 23:00.
 2025-06-09 studied 
